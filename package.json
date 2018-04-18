@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ScalesCSS/test#readme",
   "dependencies": {
-    "scalescss": "git://github.com/ScalesCSS/scalescss.git#0f9b8bc525942f1a66e8bda9799841cf9e87bbcb"
+    "scalescss": "git://github.com/ScalesCSS/scalescss.git#ce61aff9b264f4664edbe5fd351bf4db4e3bef82"
   }
 }
